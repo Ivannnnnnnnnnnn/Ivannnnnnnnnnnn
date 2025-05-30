@@ -1,4 +1,4 @@
-[![Organization](https://img.shields.io/badge/Organization-zpp--lang-blue?style=for-the-badge&logo=github)](https://github.com/zpp-lang)
+[![Organization](https://img.shields.io/badge/Organization-zpp--lang-blue?style=for-the-badge&logo=github)](https://github.com/zpp-lang) ![Z++](https://img.shields.io/badge/Language-Z++-red)
 # Hey, I'm Ivan!
 
 - I'm the creator of **Z++**, programming language inspired by c++ and c.
