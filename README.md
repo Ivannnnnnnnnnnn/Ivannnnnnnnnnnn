@@ -6,4 +6,4 @@
 - I'm actively developing Z++ and sharing progress here on GitHub.
 
  
-     ![small](https://github.com/user-attachments/assets/87cc8a22-da73-4e91-8b83-a04cbe2aa6fc)
+ ![small](https://github.com/user-attachments/assets/87cc8a22-da73-4e91-8b83-a04cbe2aa6fc) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) 
