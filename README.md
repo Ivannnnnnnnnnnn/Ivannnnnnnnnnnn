@@ -7,6 +7,7 @@
 - ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 - ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## And some other ones aswell
 
   **More about me**
 - I'm the creator of **Z++**, programming language inspired by c++ and c.
