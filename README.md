@@ -9,9 +9,4 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ## And some other ones aswell
 
-  **More about me**
-- I'm the creator of **Z++**, programming language inspired by c++ and c.
-- The repository is still private but you can follow my organization at the top.
-- I'm actively developing Z++ and sharing progress here on GitHub.
-
    ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Z++](https://img.shields.io/badge/-Z++-D32F2F?style=flat-square&logo=code&logoColor=white)
