@@ -1,4 +1,3 @@
-[![Organization](https://img.shields.io/badge/Organization-zpp--lang-blue?style=for-the-badge&logo=github)](https://github.com/zpp-lang) ![Z++](https://img.shields.io/badge/Language-Z++-red)
 # Hey, I'm Ivan!
 
 **What programming languages do i know?**
