@@ -1,6 +1,6 @@
 # Hey, I'm Ivan!
 
-## Cybersecurity fan & C/C++ tinkerer
+## Cybersecurity fan & C/C++ programmer
 ## I mess around with code, explore security stuff, and build things in C and C++. Always learning, always debugging.
 
 **What programming languages do i know?**
