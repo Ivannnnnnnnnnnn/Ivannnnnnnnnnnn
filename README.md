@@ -4,6 +4,7 @@
 ## I mess around with code, explore security stuff, and build things in C and C++. Always learning, always debugging.
 
 **What programming languages do i know?**
+
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=asm&logoColor=white) 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
