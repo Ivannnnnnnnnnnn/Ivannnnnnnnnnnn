@@ -2,6 +2,7 @@
 
 ## Cybersecurity fan & C/C++ programmer
 ## I mess around with code, explore security stuff, and build things in C and C++. Always learning, always debugging.
+<!-- ## Also a music producer -->
 
 **What programming languages do i know?**
 
