@@ -2,7 +2,7 @@
 
 ## Cybersecurity fan & C/C++ programmer
 ## I mess around with code, explore security stuff, and build things in C and C++. Always learning, always debugging.
-<!-- ## Also a music producer -->
+<span style="color: #8b949e;">Also a music producer</span>
 
 **What programming languages do i know?**
 
