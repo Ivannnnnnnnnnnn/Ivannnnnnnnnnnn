@@ -1,6 +1,6 @@
-# Hey, I'm Ivan! 👋
+# Hey, I'm Ivan!
 
-### Cybersecurity enthusiast & C/C++ programmer  
+### Cybersecurity enjoyer & C/C++ programmer  
 I enjoy messing with code, reverse engineering , and building shit in C and C++.
 
 ---
