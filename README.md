@@ -28,7 +28,7 @@ i like cybersecurity & C/C++ programming. i reverse engineering, and building lo
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivannnnnnnnnnnn&layout=compact&theme=dark&hide_border=true)
 
 ---
 
