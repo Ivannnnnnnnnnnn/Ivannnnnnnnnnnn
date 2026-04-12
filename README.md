@@ -1,6 +1,6 @@
 # hey im ivan
 
-i like cybersecurity & C/C++ programming. i reverse engineering, and building low level stuff.
+I like cybersecurity & C/C++ programming. i reverse engineering, and building low level stuff.
 
 ---
 
@@ -20,17 +20,9 @@ i like cybersecurity & C/C++ programming. i reverse engineering, and building lo
 
 ---
 
-## currently
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivannnnnnnnnnnn&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=8)
 
-- working on cs2 stuff
-- messing around in C/C++
-- learning more about security
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivannnnnnnnnnnn&layout=compact&theme=dark&hide_border=true)
-
----
+## Contact
 
 - discord: [igq1o310](https://discord.com/users/1365299368806318083)
 - telegram: [@igq1o310](https://t.me/igq1o310)
