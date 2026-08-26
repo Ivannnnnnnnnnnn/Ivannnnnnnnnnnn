@@ -1,7 +1,7 @@
 # Hey Im Ivan!
 
 ### Cybersecurity enjoyer & C/C++ programmer  
-I reverse engineering and building shit in C and C++.
+I like reverse engineering and building shit in C and C++.
 ---
 ## Programming Languages & Tools
 **Main:**  
