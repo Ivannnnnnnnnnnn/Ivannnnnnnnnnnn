@@ -1,8 +1,3 @@
-# Hey Im Ivan!
-
-### Cybersecurity enjoyer & C/C++ programmer  
-I like reverse engineering and building shit in C and C++.
----
 ## Programming Languages & Tools
 **Main:**  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
