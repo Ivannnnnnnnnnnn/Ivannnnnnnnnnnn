@@ -17,5 +17,5 @@ I like reverse engineering and building shit in C and C++.
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ---
 ## Contact
-- Discord: [igq1o310](https://discord.com/users/1365299368806318083)  
+- Discord: [rsw6](https://discord.com/users/1365299368806318083)  
 - Telegram: [@igq1o310](https://t.me/igq1o310)  
